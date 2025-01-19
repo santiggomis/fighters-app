@@ -1,4 +1,4 @@
-```python
+
 import flask
 import openai
 from flask import Flask, render_template, jsonify, request
